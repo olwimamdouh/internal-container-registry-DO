@@ -15,7 +15,7 @@ resource "digitalocean_kubernetes_cluster" "kubernetes_cluster" {
     node_count = 2
     tags       = ["node-pool-tag"]
     labels = {
-      "padok.fr/en/blog" = "up"
+      "https://olwimamdouh.hashnode.dev" = "up"
     }
   }
 
