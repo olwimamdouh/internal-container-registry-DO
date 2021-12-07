@@ -4,7 +4,7 @@
 **Attempting Challenge**: Deploy an internal container registry for Digital Ocean's Kubernetes challenge.<br>
 **Start Date**: 07-12-2021
 
-## Link to Your Project Writeup
+## Link to My  Project Writeup
 
 Here's the link to  [My Blog](https://olwimamdouh.hashnode.dev/digitalocean-kubernetes-challenge-deploying-an-internal-container-registry)
 
