@@ -6,7 +6,12 @@
 
 ## Link to Your Project Writeup
 
-[my blog](https://olwimamdouh.hashnode.dev/digitalocean-kubernetes-challenge-deploying-an-internal-container-registry)
+Here's the link to  [My Blog](https://olwimamdouh.hashnode.dev/digitalocean-kubernetes-challenge-deploying-an-internal-container-registry)
+
+
+
+
+
 
 ![DigitalOcean Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)
 ![K8s Badge](https://img.icons8.com/color/48/000000/kubernetes.png)
