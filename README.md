@@ -1,17 +1,22 @@
 # DigitalOcean-Kubernetes-Challenge
-## Internal Container Registry
 
 **Attempting Challenge**: Deploy an internal container registry for Digital Ocean's Kubernetes challenge.<br>
 **Start Date**: 07-12-2021
 
-## Link to My  Project Writeup
+## Name of Project 
+*  Internal Container Registry
+ 
+## Link to Your Github or Gitlab Repo
+* https://github.com/olwimamdouh/internal-container-registry-DO
 
-Here's the link to  [My Blog](https://olwimamdouh.hashnode.dev/digitalocean-kubernetes-challenge-deploying-an-internal-container-registry)
+## Link to Your Project Writeup
+* Here's the link to  [My Blog](https://olwimamdouh.hashnode.dev/digitalocean-kubernetes-challenge-deploying-an-internal-container-registry)
 
+## Contact Info
+* Olwi Mamdouh Mohammed
+* You can find on Twitter.com/olwimamdouh
 
-
-
-
+## Misc 
 
 ![DigitalOcean Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)
 ![K8s Badge](https://img.icons8.com/color/48/000000/kubernetes.png)
